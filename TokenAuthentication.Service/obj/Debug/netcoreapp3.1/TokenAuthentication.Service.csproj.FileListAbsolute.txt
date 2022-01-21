@@ -1,0 +1,16 @@
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\obj\Debug\netcoreapp3.1\TokenAuthentication.Service.AssemblyInfoInputs.cache
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\obj\Debug\netcoreapp3.1\TokenAuthentication.Service.AssemblyInfo.cs
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\bin\Debug\netcoreapp3.1\TokenAuthentication.Service.deps.json
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\bin\Debug\netcoreapp3.1\TokenAuthentication.Service.dll
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\bin\Debug\netcoreapp3.1\TokenAuthentication.Service.pdb
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\bin\Debug\netcoreapp3.1\SharedExpression.dll
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\bin\Debug\netcoreapp3.1\TokenAuthentication.Core.dll
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\bin\Debug\netcoreapp3.1\TokenAuthentication.Data.dll
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\bin\Debug\netcoreapp3.1\TokenAuthentication.Data.pdb
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\bin\Debug\netcoreapp3.1\SharedExpression.pdb
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\bin\Debug\netcoreapp3.1\TokenAuthentication.Core.pdb
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\obj\Debug\netcoreapp3.1\TokenAuthentication.Service.csproj.CopyComplete
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\obj\Debug\netcoreapp3.1\TokenAuthentication.Service.dll
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\obj\Debug\netcoreapp3.1\TokenAuthentication.Service.pdb
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\obj\Debug\netcoreapp3.1\TokenAuthentication.Service.csproj.AssemblyReference.cache
+C:\Users\edademirbay\source\repos\TokenAuthentication\TokenAuthentication.Service\obj\Debug\netcoreapp3.1\TokenAuthentication.Service.csproj.CoreCompileInputs.cache

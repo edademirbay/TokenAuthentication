@@ -1,0 +1,9 @@
+C:\Users\edademirbay\source\repos\TokenAuthentication\SharedExpression\bin\Debug\netcoreapp3.1\SharedExpression.deps.json
+C:\Users\edademirbay\source\repos\TokenAuthentication\SharedExpression\bin\Debug\netcoreapp3.1\SharedExpression.dll
+C:\Users\edademirbay\source\repos\TokenAuthentication\SharedExpression\bin\Debug\netcoreapp3.1\SharedExpression.pdb
+C:\Users\edademirbay\source\repos\TokenAuthentication\SharedExpression\obj\Debug\netcoreapp3.1\SharedExpression.AssemblyInfoInputs.cache
+C:\Users\edademirbay\source\repos\TokenAuthentication\SharedExpression\obj\Debug\netcoreapp3.1\SharedExpression.AssemblyInfo.cs
+C:\Users\edademirbay\source\repos\TokenAuthentication\SharedExpression\obj\Debug\netcoreapp3.1\SharedExpression.dll
+C:\Users\edademirbay\source\repos\TokenAuthentication\SharedExpression\obj\Debug\netcoreapp3.1\SharedExpression.pdb
+C:\Users\edademirbay\source\repos\TokenAuthentication\SharedExpression\obj\Debug\netcoreapp3.1\SharedExpression.csproj.AssemblyReference.cache
+C:\Users\edademirbay\source\repos\TokenAuthentication\SharedExpression\obj\Debug\netcoreapp3.1\SharedExpression.csproj.CoreCompileInputs.cache
